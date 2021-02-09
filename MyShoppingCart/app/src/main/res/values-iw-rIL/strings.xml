@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MyShoppingCart</string>
+    <string name="description">תאור</string>
+    <string name="my_product">שם המוצר</string>
+    <string name="item_details">פרטי המוצר</string>
+    <string name="number_of_products">מספר המוצרים:</string>
+    <string name="remove_all">מחק הכל</string>
+    <string name="title_activity_list_id">ID</string>
+    <string name="continue_button">המשך</string>
+    <string name="cancel_button">בטל</string>
+    <string name="already_have_a_list_code">כבר יש לך קוד של רשימה?</string>
+    <string name="please_generate_a_new_list_code_or_add_your_existing_code_to_continue_to_your_personal_list">אנא צור קוד חדש, או הוסף קוד קיים כדי להמשיף לרשימת הקניות האישית שלך</string>
+    <string name="generate_code">צור קוד אוטומטית</string>
+    <string name="continue_to_my_list">המשך לרשימה שלי</string>
+    <string name="upload_list">עדכן רשימה</string>
+    <string name="login_with_gmail">התחבר עם Gmail</string>
+</resources>

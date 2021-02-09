@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">MyShoppingCart</string>
+    <string name="action_settings" translatable="false">Settings</string>
+    <string name="description">Description</string>
+    <string name="my_product">Product name</string>
+    <string name="item_details">Item Details</string>
+    <string name="number_of_products">Number of Products:</string>
+    <string name="remove_all">Remove All</string>
+    <string name="title_activity_list_id">ListIDActivity</string>
+    <string name="continue_button">Continue</string>
+    <string name="cancel_button">Cancel</string>
+    <string name="already_have_a_list_code">Already have a list code?</string>
+    <string name="please_generate_a_new_list_code_or_add_your_existing_code_to_continue_to_your_personal_list">Please generate a new list code or add your existing code to continue to your personal list</string>
+    <string name="generate_code">Generate code</string>
+    <string name="continue_to_my_list">Continue to my list</string>
+    <string name="upload_list">Upload List</string>
+    <string name="login_with_gmail">Login with Gmail</string>
+</resources>
